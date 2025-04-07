@@ -1,7 +1,0 @@
-add_cuda.cpp
-add_cuda_kernel.cu
-setup.py
-my_ops.egg-info/PKG-INFO
-my_ops.egg-info/SOURCES.txt
-my_ops.egg-info/dependency_links.txt
-my_ops.egg-info/top_level.txt
